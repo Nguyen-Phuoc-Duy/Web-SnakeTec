@@ -1,0 +1,30 @@
+﻿.login-container {
+    width: 400px;
+    margin:200px auto;
+    border: 2px solid rgb(161, 161, 161);
+    padding: 15px;
+    border-radius: 4px;
+    background-color: rgb(192, 191, 250);
+}
+
+.login-container h2 {
+        font-size: 18px;
+        color: var(--primary-color);
+        text-align: center;
+        margin-bottom: 20px;
+}
+.login-controller {
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+}
+
+.move-to-registration {
+    margin-top: 15px;
+    font-size: 13px;
+    text-align: center;
+}
+
+    .move-to-registration a {
+        color: var(--primary-color);
+    }

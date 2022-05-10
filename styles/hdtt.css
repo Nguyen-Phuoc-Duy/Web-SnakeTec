@@ -1,0 +1,1635 @@
+﻿a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, button, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, input, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, select, small, span, strike, strong, sub, summary, sup, table, tbody, td, textarea, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ladi-wraper {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    line-height: 1;
+}
+
+body {
+    font-size: 12px;
+    -ms-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #fff;
+}
+
+body {
+    font-family: "SVN-Circular Bold.otf";
+}
+
+.ladi-section {
+    margin: 0 auto;
+    position: relative;
+}
+/* @media all and (min-width:768px) */
+#SECTION1 {
+    height: 565.89px;
+}
+/* @media all and (min-width:768px) */
+#SECTION2 {
+    height: 632.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION25 {
+    height: 720.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION26 {
+    height: 984.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION60 {
+    height: 595.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION98 {
+    height: 612.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION110 {
+    height: 504.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION61 {
+    height: 142.5px;
+}
+/* @media all and (min-width:768px) */
+#SECTION212 {
+    height: 527.9px;
+}
+/* @media all and (min-width:768px) */
+#SECTION_POPUP {
+    height: 0px;
+}
+
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.ladi-container {
+    position: relative;
+    /* margin: 0 auto; */
+    margin-left: 15%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+.ladi-section .ladi-container {
+    width: 1200px;
+}
+
+#SECTION_POPUP .ladi-container {
+    z-index: 90000070;
+}
+/* @media all and (min-width:768px) */
+#SECTION212 > .ladi-section-background {
+    background-color: rgb(13, 22, 51);
+}
+
+a {
+    text-decoration: none;
+}
+
+.ladi-element {
+    position: absolute;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE213 {
+    width: 979px;
+    top: 448.3px;
+    left: 22.54px;
+}
+/* @media all and (min-width:768px) */
+#HTML_CODE214 {
+    width: 144.8px;
+    height: 90.5px;
+    top: 273.8px;
+    left: 1257.63px;
+    display: none !important;
+}
+/* @media all and (min-width:768px) */
+#LINE215 {
+    width: 1153px;
+    top: 412.3px;
+    left: 22.54px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE216 {
+    width: 311px;
+    top: 36.05px;
+    left: 22.54px;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:link {
+    color: inherit;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH217 {
+    width: 311px;
+    top: 65.55px;
+    left: 22.54px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH218 {
+    width: 311px;
+    top: 327.55px;
+    left: 22.54px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE219 {
+    width: 163px;
+    top: 37.29px;
+    left: 969.62px;
+}
+/* @media all and (min-width:768px) */
+#GROUP220 {
+    width: 183.89px;
+    height: 21px;
+    top: 66.79px;
+    left: 971.23px;
+}
+/* @media all and (min-width:768px) */
+#GROUP223 {
+    width: 206px;
+    height: 24px;
+    top: 66.8px;
+    left: 677.31px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE226 {
+    width: 193px;
+    top: 37.3px;
+    left: 676.5px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH227 {
+    width: 133px;
+    top: 66.8px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE228 {
+    width: 163px;
+    top: 37.3px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH229 {
+    width: 133px;
+    top: 96.8px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH230 {
+    width: 133px;
+    top: 127.8px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH231 {
+    width: 133px;
+    top: 158.8px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH232 {
+    width: 133px;
+    top: 189.8px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH233 {
+    width: 133px;
+    top: 220.8px;
+    left: 438.75px;
+}
+/* @media all and (min-width:768px) */
+#GROUP234 {
+    width: 184.62px;
+    height: 21px;
+    top: 96.79px;
+    left: 970.62px;
+}
+/* @media all and (min-width:768px) */
+#GROUP237 {
+    width: 199.62px;
+    height: 21px;
+    top: 127.79px;
+    left: 969.62px;
+}
+/* @media all and (min-width:768px) */
+#GROUP240 {
+    width: 185.62px;
+    height: 21px;
+    top: 158.79px;
+    left: 969.62px;
+}
+/* @media all and (min-width:768px) */
+#GROUP243 {
+    width: 183.68px;
+    height: 21px;
+    top: 189.79px;
+    left: 971.56px;
+}
+/* @media all and (min-width:768px) */
+#GROUP246 {
+    width: 205.37px;
+    height: 21px;
+    top: 96.8px;
+    left: 676.5px;
+}
+/* @media all and (min-width:768px) */
+#GROUP249 {
+    width: 205.37px;
+    height: 21px;
+    top: 127.8px;
+    left: 676.5px;
+}
+/* @media all and (min-width:768px) */
+#GROUP252 {
+    width: 206.25px;
+    height: 21px;
+    top: 158.8px;
+    left: 676.87px;
+}
+
+[data-action=true] {
+    cursor: pointer;
+}
+/* @media all and (min-width:768px) */
+#GROUP255 {
+    width: 171.42px;
+    height: 35.99px;
+    top: 440.3px;
+    left: 1004.12px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH259 {
+    width: 311px;
+    top: 239.55px;
+    left: 22.54px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH260 {
+    width: 311px;
+    top: 151.79px;
+    left: 22.54px;
+}
+
+.ladi-paragraph {
+    width: 100%;
+    display: inline-block;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH260 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH259 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#BOX256 {
+    width: 171.42px;
+    height: 35.99px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#SHAPE257 {
+    width: 20.65px;
+    height: 21.85px;
+    top: 6.07px;
+    left: 13px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE258 {
+    width: 119px;
+    top: 6.07px;
+    left: 41px;
+}
+
+.ladi-transition {
+    transition: all 150ms linear 0s;
+}
+
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE258 > .ladi-headline {
+    font-family: "SVN-Arial Bold.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+.ladi-shape {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+/* @media all and (min-width:768px) */
+#SHAPE257 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+}
+
+.ladi-box {
+    position: absolute;
+    margin-left:-20px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+/* @media all and (min-width:768px) */
+#BOX256 > .ladi-box {
+    background: rgba(232, 104, 48, 1);
+    background: -webkit-linear-gradient(180deg, rgba(232, 104, 48, 1), rgba(235, 39, 39, 1));
+    background: linear-gradient(180deg, rgba(232, 104, 48, 1), rgba(235, 39, 39, 1));
+    border-radius: 3px;
+    margin-left: -40px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH253 {
+    width: 65px;
+    top: 0px;
+    left: 141.48px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH254 {
+    width: 133px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH254 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#PARAGRAPH253 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(235, 39, 39);
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH250 {
+    width: 65px;
+    top: 0px;
+    left: 141px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH251 {
+    width: 133px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH251 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#PARAGRAPH250 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(235, 39, 39);
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH247 {
+    width: 65px;
+    top: 0px;
+    left: 141px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH248 {
+    width: 133px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH248 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#PARAGRAPH247 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(235, 39, 39);
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#SHAPE244 {
+    width: 15.12px;
+    height: 16px;
+    top: 3.43px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH245 {
+    width: 160px;
+    top: 0px;
+    left: 23.68px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH245 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#SHAPE244 svg:last-child {
+    fill: rgba(235, 39, 39, 1);
+}
+/* @media all and (min-width:768px) */
+#SHAPE241 {
+    width: 17px;
+    height: 17px;
+    top: 2.59px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH242 {
+    width: 160px;
+    top: 0px;
+    left: 25.62px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH242 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#SHAPE241 svg:last-child {
+    fill: rgba(235, 39, 39, 1);
+}
+/* @media all and (min-width:768px) */
+#SHAPE238 {
+    width: 18.28px;
+    height: 17px;
+    top: 1.47px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH239 {
+    width: 173px;
+    top: 0px;
+    left: 27.55px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH239 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#SHAPE238 svg:last-child {
+    fill: rgba(232, 104, 48, 1);
+}
+/* @media all and (min-width:768px) */
+#SHAPE235 {
+    width: 15px;
+    height: 14.81px;
+    top: 2.55px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH236 {
+    width: 160px;
+    top: 0px;
+    left: 24.62px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH236 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#SHAPE235 svg:last-child {
+    fill: rgba(48, 128, 232, 1);
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH233 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH232 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH231 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH230 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH229 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE228 > .ladi-headline {
+    font-family: "SVN-Arial Bold.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH227 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE226 > .ladi-headline {
+    font-family: "SVN-Arial Bold.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH224 {
+    width: 133px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH225 {
+    width: 65px;
+    top: 0px;
+    left: 141px;
+}
+    /* @media all and (min-width:768px) */
+    #PARAGRAPH225 > .ladi-paragraph {
+        font-family: "SVN-Arial Regular.ttf";
+        color: rgb(235, 39, 39);
+        font-size: 13px;
+        font-weight: bold;
+        line-height: 1.8;
+    }
+/* @media all and (min-width:768px) */
+#PARAGRAPH224 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH221 {
+    width: 160px;
+    top: 0px;
+    left: 23.89px;
+}
+/* @media all and (min-width:768px) */
+#SHAPE222 {
+    width: 13.77px;
+    height: 17px;
+    top: 2px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #SHAPE222 svg:last-child {
+        fill: rgba(48, 128, 232, 1);
+    }
+/* @media all and (min-width:768px) */
+#PARAGRAPH221 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE219 > .ladi-headline {
+    font-family: "SVN-Arial Bold.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH218 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH217 > .ladi-paragraph {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    line-height: 1.8;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE216 > .ladi-headline {
+    font-family: "SVN-Arial Bold.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+}
+
+.ladi-line {
+    position: relative;
+}
+/* @media all and (min-width:768px) */
+#LINE215 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+}
+
+.ladi-line .ladi-line-container {
+    border-bottom: 0 !important;
+    border-right: 0 !important;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#LINE215 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgb(255, 255, 255);
+    border-right: 1px solid rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    border-left: 0px !important;
+}
+
+.ladi-html-code {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE213 > .ladi-headline {
+    font-family: "SVN-Arial Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#SECTION61 > .ladi-section-background {
+    background-color: rgb(1, 131, 255);
+}
+/* @media all and (min-width:768px) */
+#HEADLINE123 {
+    width: 602px;
+    top: 73.25px;
+    left: 294.5px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE125 {
+    width: 558px;
+    top: 32.61px;
+    left: 370px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE125 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE123 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#BOX122 {
+    width: 1299px;
+    height: 257px;
+    top: 168.95px;
+    left: -52px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE111 {
+    width: 562.73px;
+    height: 83.53px;
+    top: 78.42px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE113 {
+    width: 537.83px;
+    height: 393.42px;
+    top: 0px;
+    left: 646.3px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE119 {
+    width: 654px;
+    top: 204.34px;
+    left: 8.72px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE174 {
+    width: 654px;
+    top: 9px;
+    left: -672px;
+    display: none !important;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE174 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 18px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE119 > .ladi-headline {
+    font-family: "SVN-Circular Book.otf";
+    color: rgb(61, 78, 94);
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+    .ladi-image .ladi-image-background {
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        position: absolute;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+
+
+#BOX122 > .ladi-box {
+    background-color: rgb(237, 246, 255);
+    border-radius: 16px;
+}
+
+#IMAGE99 {
+    width: 562.73px;
+    height: 83.53px;
+    top: 78.42px;
+    left: 91px;
+}
+
+#IMAGE100 {
+    width: 81px;
+    height: 85.15px;
+    top: 76.26px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE101 {
+    width: 709.56px;
+    height: 481.04px;
+    top: 61.26px;
+    left: 718.57px;
+}
+/* @media all and (min-width:768px) */
+#GROUP102 {
+    width: 654px;
+    height: 87px;
+    top: 207.61px;
+    left: 5.72px;
+}
+/* @media all and (min-width:768px) */
+#GROUP105 {
+    width: 654px;
+    height: 59px;
+    top: 328.61px;
+    left: 5.72px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE108 {
+    width: 687px;
+    top: 445.11px;
+    left: 5.72px;
+}
+/* @media all and (min-width:768px) */
+#BOX109 {
+    width: 186.66px;
+    height: 5px;
+    top: 575.11px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #BOX109 > .ladi-box {
+        background-color: rgb(45, 67, 121);
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE108 > .ladi-headline {
+    font-family: "SVN-Circular Book.otf";
+    color: rgb(45, 67, 121);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE106 {
+    width: 268px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE107 {
+    width: 654px;
+    top: 31px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE107 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 18px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE106 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(11, 189, 121);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE103 {
+    width: 268px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE104 {
+    width: 654px;
+    top: 31px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE104 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 18px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE103 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(11, 189, 121);
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+#IMAGE76 {
+    width: 562.73px;
+    height: 83.53px;
+    top: 49.42px;
+    left: 91px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE77 {
+    width: 81px;
+    height: 81px;
+    top: 48.26px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE78 {
+    width: 700.71px;
+    height: 475.04px;
+    top: 34.26px;
+    left: 718.57px;
+}
+/* @media all and (min-width:768px) */
+#GROUP79 {
+    width: 654px;
+    height: 87px;
+    top: 178.61px;
+    left: 5.72px;
+}
+/* @media all and (min-width:768px) */
+#GROUP82 {
+    width: 700px;
+    height: 59px;
+    top: 299.61px;
+    left: 5.72px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE85 {
+    width: 687px;
+    top: 418.11px;
+    left: 5.72px;
+}
+/* @media all and (min-width:768px) */
+#BOX97 {
+    width: 186.66px;
+    height: 5px;
+    top: 558.11px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #BOX97 > .ladi-box {
+        background-color: rgb(45, 67, 121);
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE85 > .ladi-headline {
+    font-family: "SVN-Circular Book.otf";
+    color: rgb(45, 67, 121);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE83 {
+    width: 268px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE84 {
+    width: 700px;
+    top: 31px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE84 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 18px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE83 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(200, 41, 127);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE80 {
+    width: 268px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE81 {
+    width: 654px;
+    top: 31px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE81 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 18px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE80 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(200, 41, 127);
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+#SECTION26 > .ladi-section-background {
+    background-color: rgb(237, 246, 255);
+}
+/* @media all and (min-width:768px) */
+#IMAGE54 {
+    width: 453.98px;
+    height: 94.4px;
+    top: 32.47px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE56 {
+    width: 517px;
+    top: 57.61px;
+    left: 539px;
+}
+/* @media all and (min-width:768px) */
+#GROUP62 {
+    width: 376.7px;
+    height: 78.66px;
+    top: 178.72px;
+    left: 12px;
+}
+/* @media all and (min-width:768px) */
+#BOX50 {
+    width: 200px;
+    height: 200px;
+    top: 264.26px;
+    left: 12px;
+}
+/* @media all and (min-width:768px) */
+#HTML_CODE51 {
+    width: 347.96px;
+    height: 244.51px;
+    top: 268.97px;
+    left: 16.7px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE73 {
+    width: 90px;
+    top: 0px;
+    left: 0px;
+    display: none !important;
+}
+/* @media all and (min-width:768px) */
+#BOX185 {
+    width: 200px;
+    height: 200px;
+    top: 259.56px;
+    left: 833.66px;
+}
+/* @media all and (min-width:768px) */
+#HTML_CODE186 {
+    width: 347.96px;
+    height: 244.51px;
+    top: 264.26px;
+    left: 838.36px;
+}
+/* @media all and (min-width:768px) */
+#GROUP187 {
+    width: 443px;
+    height: 79.66px;
+    top: 174.02px;
+    left: 833.66px;
+}
+/* @media all and (min-width:768px) */
+#BOX48 {
+    width: 200px;
+    height: 200px;
+    top: 259.56px;
+    left: 419.82px;
+}
+/* @media all and (min-width:768px) */
+/* #HTML_CODE49 {
+	width: 347.96px;
+	height: 244.51px;
+	top: 264.26px;
+	left: 424.52px;
+} */
+/* @media all and (min-width:768px) */
+#GROUP66 {
+    width: 374.56px;
+    height: 74.9px;
+    top: 174.02px;
+    left: 419.82px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE190 {
+    width: 90px;
+    top: 0px;
+    left: 0px;
+    display: none !important;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE75 {
+    width: 90px;
+    top: 71.67px;
+    left: -178px;
+    display: none !important;
+}
+/* @media all and (min-width:768px) */
+#GROUP206 {
+    width: 377px;
+    height: 79.66px;
+    top: 568.72px;
+    left: 12px;
+}
+/* @media all and (min-width:768px) */
+#BOX210 {
+    width: 357.36px;
+    height: 253.91px;
+    top: 669.56px;
+    left: 12px;
+}
+/* @media all and (min-width:768px) */
+#HTML_CODE209 {
+    width: 347.96px;
+    height: 244.51px;
+    top: 674.26px;
+    left: 16.7px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE211 {
+    width: 90px;
+    top: 0px;
+    left: 0px;
+    display: none !important;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE211 > .ladi-headline {
+        font-family: "Muli-Light.ttf";
+        color: rgb(58, 176, 213);
+        font-size: 10px;
+        font-weight: bold;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#BOX210 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE207 {
+    width: 377px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE208 {
+    width: 353px;
+    top: 28.66px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE208 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 16px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE207 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(37, 57, 101);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE75 > .ladi-headline {
+    font-family: "Muli-Light.ttf";
+    color: rgb(58, 176, 213);
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE190 > .ladi-headline {
+    font-family: "Muli-Light.ttf";
+    color: rgb(58, 176, 213);
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE67 {
+    width: 267px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE68 {
+    width: 375px;
+    top: 28.66px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE68 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 16px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE67 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(37, 57, 101);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#BOX48 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE188 {
+    width: 443px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE189 {
+    width: 275px;
+    top: 28.66px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE189 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 16px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE188 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(37, 57, 101);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#BOX185 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE73 > .ladi-headline {
+    font-family: "Muli-Light.ttf";
+    color: rgb(58, 176, 213);
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#BOX50 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE58 {
+    width: 377px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE59 {
+    width: 353px;
+    top: 28.66px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE59 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 16px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE58 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(37, 57, 101);
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+#HEADLINE56 > .ladi-headline {
+    font-family: "SVN-Circular Book.otf";
+    color: rgb(109, 128, 153);
+    font-size: 16px;
+    line-height: 2;
+}
+
+#IMAGE204 {
+    width: 219.87px;
+    height: 219.87px;
+    top: 453.23px;
+    left: 736.64px;
+}
+
+#IMAGE27 {
+    width: 2323.63px;
+    height: 630.52px;
+    top: 19.97px;
+    left: -1969.79px;
+}
+
+#IMAGE28 {
+    width: 265.65px;
+    height: 557.89px;
+    top: 56.29px;
+    left: 36.43px;
+}
+
+#GROUP35 {
+    width: 779.36px;
+    height: 174px;
+    top: 265.23px;
+    left: 420.64px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE40 {
+    width: 585.47px;
+    height: 83.55px;
+    top: 26.22px;
+    left: 412.62px;
+}
+/* @media all and (min-width:768px) */
+#GROUP44 {
+    width: 704px;
+    height: 64px;
+    top: 137.11px;
+    left: 420.64px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE45 {
+    width: 2323.63px;
+    height: 630.52px;
+    top: 19.97px;
+    left: 1279.21px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE182 {
+    width: 316px;
+    top: 221.23px;
+    left: 420.64px;
+}
+/* @media all and (min-width:768px) */
+#GROUP192 {
+    width: 779.36px;
+    height: 174px;
+    top: 92.23px;
+    left: 1311.64px;
+    display: none !important;
+}
+/* @media all and (min-width:768px) */
+#GROUP197 {
+    width: 779.36px;
+    height: 174px;
+    top: 367.23px;
+    left: 1333.64px;
+    display: none !important;
+}
+/* @media all and (min-width:768px) */
+#GROUP205 {
+    width: 314.98px;
+    height: 51.82px;
+    top: 518.23px;
+    left: 420.64px;
+}
+/* @media all and (min-width:768px) */
+#BOX202 {
+    width: 314.98px;
+    height: 51.82px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE203 {
+    width: 277px;
+    top: 13.41px;
+    left: 21.36px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE203 > .ladi-headline {
+        font-family: "Muli-Black.ttf";
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        line-height: 1.4;
+    }
+/* @media all and (min-width:768px) */
+#BOX202 > .ladi-box {
+    background-color: rgb(1, 131, 255);
+    border-radius: 8px;
+}
+
+#BOX193 {
+    width: 779.36px;
+    height: 174px;
+    top: 0px;
+    left: 0px;
+}
+
+    #BOX193 > .ladi-box {
+        background-color: rgb(237, 246, 255);
+        border-radius: 16px;
+    }
+
+#HEADLINE182 > .ladi-headline {
+    font-family: "SVN-Circular Book.otf";
+    color: rgb(253, 19, 6);
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 2;
+}
+
+#HEADLINE41 {
+    width: 704px;
+    top: 0px;
+    left: 0px;
+}
+
+    #HEADLINE41 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(109, 129, 153);
+        font-size: 16px;
+        line-height: 2;
+    }
+
+#BOX36 {
+    width: 779.36px;
+    height: 174px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE37 {
+    width: 192.31px;
+    height: 87.53px;
+    top: 43.23px;
+    left: 32.73px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE38 {
+    width: 485px;
+    top: 29.98px;
+    left: 257.36px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE39 {
+    width: 463px;
+    top: 67.5px;
+    left: 257.36px;
+}
+    /* @media all and (min-width:768px) */
+    #HEADLINE39 > .ladi-headline {
+        font-family: "SVN-Circular Book.otf";
+        color: rgb(61, 78, 94);
+        font-size: 18px;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#HEADLINE38 > .ladi-headline {
+    font-family: "Muli-Black.ttf";
+    color: rgb(45, 67, 121);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#BOX36 > .ladi-box {
+    background-color: rgb(237, 246, 255);
+    border-radius: 16px;
+}
+
+#BOX24 {
+    width: 1290px;
+    height: 375px;
+    top: 102.61px;
+    left: -45px;
+}
+
+#IMAGE19 {
+    width: 385.47px;
+    height: 267.32px;
+    top: 41.47px;
+    left: 407.09px;
+}
+
+#IMAGE20 {
+    width: 385.47px;
+    height: 267.32px;
+    top: 41.47px;
+    left: 0px;
+}
+
+#IMAGE21 {
+    width: 385.47px;
+    height: 267.32px;
+    top: 41.47px;
+    left: 815.52px;
+}
+
+#IMAGE22 {
+    width: 385.47px;
+    height: 267.32px;
+    top: 338.41px;
+    left: 201.57px;
+}
+
+#IMAGE23 {
+    width: 385.47px;
+    height: 267.32px;
+    top: 338.41px;
+    left: 612.62px;
+}
+/* @media all and (min-width:768px) */
+#BOX24 > .ladi-box {
+    background-color: rgb(237, 246, 255);
+    border-radius: 16px;
+}
+
+#HEADLINE16 > .ladi-headline {
+    font-family: "SVN-Circular Book.otf";
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#IMAGE14 {
+    width: 765.16px;
+    height: 526.28px;
+    top: 28.36px;
+    left: 446.5px;
+}
+
+#IMAGE15 {
+    width: 509.95px;
+    height: 118.45px;
+    top: 109.27px;
+    left: 0px;
+}
+
+#IMAGE17 {
+    width: 243.339px;
+    height: 68.0416px;
+    top: 310.538px;
+    left: 0px;
+}
+
+#HEADLINE16 {
+    width: 463px;
+    top: 244.5px;
+    left: 9px;
+}

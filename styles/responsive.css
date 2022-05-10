@@ -1,0 +1,71 @@
+/* RESPONSIVE */
+@media (min-width: 1113px){
+}
+
+@media (min-width: 1024px) and (max-width:1239px){
+    .header-navbar-item{
+        padding: 0 3px 0 3px;
+    }
+    .product-item-addcart span{
+        display: none;
+    }
+    .product-item-price-old{
+        font-size: 1.2rem;
+    }
+    .product-item-price-new{
+        font-size: 1.7rem;
+    }
+}
+@media (max-width: 1023px){
+    .sidebar-menu-wrapper{
+        display: block;
+    }
+    .banner-top{
+        display: none;
+    }
+    .header-main-navbar{
+        display: none;
+    }
+    .header-user{
+        width: 50px;
+    }
+    .header-user-item{
+        display: none;
+    }
+    .sticker-cart{
+        display: flex;
+    }
+    .header-menu-sidebar-btn{
+        display: flex;
+    }
+    .body-container{
+        margin-top: 130px;
+    }
+}
+@media (min-width: 740px) and (max-width:1023px){
+    
+}
+@media (max-width: 739px){
+    .header-logo-field {
+        width: 40px;
+    }
+    .header-logo-img{
+        display: none;
+    }
+    .header-hull{
+        display: none;
+    }
+    .body-container{
+        margin-top: 80px;
+    }
+    .header-search-btn>span{
+        display: none;
+    }
+    .sidebar-menu-btn{
+        top: 17px;
+    }
+    .sidebar-menu-wrapper{
+        width: 320px;
+        left: -320px;
+    }
+}

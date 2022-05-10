@@ -1,0 +1,1408 @@
+﻿a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, button, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, input, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, select, small, span, strike, strong, sub, summary, sup, table, tbody, td, textarea, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ladi-section {
+    margin: 0 auto;
+    position: relative;
+}
+
+#BODY_BACKGROUND {
+    position: fixed;
+    pointer-events: none;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+    height: 100vh !important;
+}
+
+#BODY_BACKGROUND {
+    height: 0px;
+}
+
+.ladi-wraper {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    line-height: 1;
+}
+
+body {
+    font-size: 12px;
+    -ms-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #fff;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+#BODY_BACKGROUND > .ladi-section-background {
+    background-color: rgb(255, 255, 255);
+}
+
+#SECTION18 {
+    height: 60px;
+}
+
+.ladi-section {
+    margin: 0 auto;
+    position: relative;
+}
+
+#SECTION18 > .ladi-section-background {
+    background-color: rgb(8, 85, 175);
+}
+
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+
+.ladi-section .ladi-container {
+    width: 1200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ladi-element {
+    position: absolute;
+}
+
+a:visited {
+    color: inherit;
+}
+
+a:link {
+    color: inherit;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE19 {
+    width: 60px;
+    top: 19.44px;
+    left: 557.93px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE20 {
+    width: 76px;
+    top: 19.44px;
+    left: 670.64px;
+}
+
+[data-action=true] {
+    cursor: pointer;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE21 {
+    width: 59px;
+    top: 19.44px;
+    left: 799.35px;
+}
+/* @media all and (min-width:768px) */
+#GROUP22 {
+    width: 140px;
+    height: 42.22px;
+    top: 9.03px;
+    left: 1052.06px;
+}
+/* @media all and (min-width:768px) */
+#GROUP25 {
+    width: 118px;
+    height: 42.22px;
+    top: 9.33px;
+    left: 919.06px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE28 {
+    width: 150px;
+    height: 50px;
+    top: 5.44px;
+    left: 12.55px;
+}
+
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+    .ladi-image .ladi-image-background {
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        position: absolute;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#BOX26 {
+    width: 118px;
+    height: 42.22px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE27 {
+    width: 91.87px;
+    height: 30px;
+    top: 6.11px;
+    left: 13.06px;
+}
+
+.ladi-box {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+/* @media all and (min-width:768px) */
+#BOX26 > .ladi-box {
+    background-color: rgb(48, 128, 232);
+    border-radius: 5px;
+}
+/* @media all and (min-width:768px) */
+#BOX23 {
+    width: 140px;
+    height: 42.22px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE24 {
+    width: 113.13px;
+    height: 30px;
+    top: 6.11px;
+    left: 13.43px;
+}
+
+#BOX23 > .ladi-box {
+    background-color: rgb(48, 128, 232);
+    border-radius: 5px;
+}
+
+.ladi-transition {
+    transition: all 150ms linear 0s;
+}
+
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE21 > .ladi-headline {
+    font-family: "Roboto-Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+#HEADLINE20 > .ladi-headline {
+    font-family: "Roboto-Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+#HEADLINE19 > .ladi-headline {
+    font-family: "Roboto-Regular.ttf";
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+
+/*body2*/
+#SECTION29 {
+    height: 441.6px;
+}
+
+.ladi-wraper {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    line-height: 1;
+}
+
+body {
+    font-size: 12px;
+    -ms-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #fff;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    overflow: hidden;
+}
+/* @media all and (min-width:768px) */
+#SECTION29 > .ladi-section-background {
+    background-size: auto 100%;
+    background-attachment: scroll;
+    background-origin: content-box;
+    background-image: url("https://w.ladicdn.com/s1440x441/5bf3dc7edc60303c34e4991f/tra-gop-ab-02-20210803042114.png");
+    background-position: center top;
+    background-repeat: repeat;
+}
+
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+.ladi-section .ladi-container {
+    width: 1200px;
+}
+
+.ladi-element {
+    position: absolute;
+}
+/* @media all and (min-width:768px) */
+#IMAGE30 {
+    width: 708.6px;
+    height: 427.65px;
+    top: 7px;
+    left: 524.55px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE31 {
+    width: 568px;
+    top: 50px;
+    left: 12.64px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE32 {
+    width: 349px;
+    top: 118px;
+    left: 12.64px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE33 {
+    width: 509px;
+    top: 212px;
+    left: 12.55px;
+}
+/* @media all and (min-width:768px) */
+#GROUP265 {
+    width: 304.4px;
+    height: 50.8px;
+    top: 276.88px;
+    left: 12.55px;
+}
+
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+[data-action=true] {
+    cursor: pointer;
+}
+/* @media all and (min-width:768px) */
+#IMAGE263 {
+    width: 147.13px;
+    height: 48.72px;
+    top: 2.08px;
+    left: 157.27px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE264 {
+    width: 147.13px;
+    height: 48.72px;
+    top: 0px;
+    left: 0px;
+}
+
+.ladi-transition {
+    transition: all 150ms linear 0s;
+}
+
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+    .ladi-image .ladi-image-background {
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        position: absolute;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE33 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE32 > .ladi-headline {
+    font-family: "SVN-Gotham Bold.ttf";
+    color: rgb(8, 85, 175);
+    font-size: 24px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE31 > .ladi-headline {
+    font-family: "SVN-Gotham Black.otf";
+    color: rgb(8, 85, 175);
+    font-size: 48px;
+    line-height: 1.6;
+}
+
+
+
+/*body3*/
+#SECTION35 {
+    height: 1656.1px;
+}
+
+.ladi-wraper {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    line-height: 1;
+}
+
+body {
+    font-size: 12px;
+    -ms-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    background: #fff;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.ladi-section .ladi-section-background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+#SECTION35 > .ladi-section-background {
+    background-color: rgb(255, 255, 255);
+}
+
+.ladi-container {
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+.ladi-section .ladi-container {
+    width: 1200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.ladi-element {
+    position: absolute;
+}
+/* @media all and (min-width:768px) */
+#BOX259 {
+    width: 312.88px;
+    height: 11.55px;
+    top: 285.19px;
+    left: 30.58px;
+}
+/* @media all and (min-width:768px) */
+#BOX258 {
+    width: 200px;
+    height: 11.23px;
+    top: 132.19px;
+    left: 30.58px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE46 {
+    width: 380.29px;
+    height: 301.53px;
+    top: 390.34px;
+    left: 29.58px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE37 {
+    width: 657.75px;
+    height: 77.59px;
+    top: 27.15px;
+    left: 29.58px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE40 {
+    width: 475.47px;
+    height: 348.24px;
+    top: 40.7px;
+    left: 668.58px;
+}
+/* @media all and (min-width:768px) */
+#GROUP72 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 1463.09px;
+    left: 32.24px;
+}
+/* @media all and (min-width:768px) */
+#GROUP73 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 1463.09px;
+    left: 265.91px;
+}
+/* @media all and (min-width:768px) */
+#GROUP76 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 1463.09px;
+    left: 491.09px;
+}
+/* @media all and (min-width:768px) */
+#GROUP79 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 1463.09px;
+    left: 723.69px;
+}
+/* @media all and (min-width:768px) */
+#GROUP82 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 1463.09px;
+    left: 949.93px;
+}
+/* @media all and (min-width:768px) */
+#GROUP87 {
+    width: 200px;
+    height: 79.06px;
+    top: 1304.26px;
+    left: 551.64px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE47 {
+    width: 380.29px;
+    height: 301.53px;
+    top: 387.64px;
+    left: 405.49px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE48 {
+    width: 380.29px;
+    height: 301.53px;
+    top: 387.64px;
+    left: 784.44px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE62 {
+    width: 375.3px;
+    height: 297.58px;
+    top: 937.4px;
+    left: 32.24px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE63 {
+    width: 375.3px;
+    height: 297.58px;
+    top: 937.4px;
+    left: 408.47px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE64 {
+    width: 375.3px;
+    height: 297.58px;
+    top: 937.4px;
+    left: 787.05px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE39 {
+    width: 594px;
+    top: 150.75px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE231 {
+    width: 205px;
+    top: 104.75px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE232 {
+    width: 303px;
+    top: 255.75px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE45 {
+    width: 626px;
+    top: 353.48px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE233 {
+    width: 608px;
+    top: 311.48px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE54 {
+    width: 787px;
+    top: 696.43px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE244 {
+    width: 77px;
+    top: 654.43px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE60 {
+    width: 724px;
+    top: 852.4px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE234 {
+    width: 496px;
+    top: 809.4px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE235 {
+    width: 553px;
+    top: 1260.24px;
+    left: 38.79px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE67 {
+    width: 510px;
+    top: 1332.24px;
+    left: 41.37px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE236 {
+    width: 97px;
+    top: 1296.24px;
+    left: 41.37px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE69 {
+    width: 545px;
+    top: 1426.24px;
+    left: 41.37px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE237 {
+    width: 97px;
+    top: 1390.24px;
+    left: 41.37px;
+}
+
+.ladi-headline {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-position: center center;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE237 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    text-decoration-line: underline;
+    -webkit-text-decoration-line: underline;
+    color: rgb(8, 85, 175);
+    font-size: 23px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE69 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE236 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    text-decoration-line: underline;
+    -webkit-text-decoration-line: underline;
+    color: rgb(8, 85, 175);
+    font-size: 23px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE67 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE235 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    color: rgb(8, 85, 175);
+    font-size: 23px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE234 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    color: rgb(8, 85, 175);
+    font-size: 23px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE60 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE244 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    color: rgb(8, 85, 175);
+    font-size: 23px;
+    font-style: italic;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE54 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE233 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    color: rgb(8, 85, 175);
+    font-size: 23px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE45 > .ladi-headline {
+    font-family: "SVN-Avenir Next Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE232 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    color: rgb(8, 85, 175);
+    font-size: 29px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE231 > .ladi-headline {
+    font-family: "SVN-Avenir Next Rounded Bold.otf";
+    color: rgb(8, 85, 175);
+    font-size: 29px;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE39 > .ladi-headline {
+    font-family: "SVN-Avenir Next Medium.otf";
+    color: rgb(49, 51, 55);
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.ladi-transition {
+    transition: all 150ms linear 0s;
+}
+
+.ladi-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+    .ladi-image .ladi-image-background {
+        background-repeat: no-repeat;
+        background-position: left top;
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        position: absolute;
+        margin: 0 auto;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#IMAGE85 {
+    width: 200px;
+    height: 79.06px;
+    top: 0px;
+    left: 0px;
+}
+
+a:link {
+    color: inherit;
+}
+/* @media all and (min-width:768px) */
+#IMAGE86 {
+    width: 200px;
+    height: 79.06px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #IMAGE86 > .ladi-image {
+        opacity: 0;
+    }
+
+#IMAGE83 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE84 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #IMAGE84 > .ladi-image {
+        opacity: 0;
+    }
+
+#IMAGE80 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE81 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #IMAGE81 > .ladi-image {
+        opacity: 0;
+    }
+
+#IMAGE77 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE78 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #IMAGE78 > .ladi-image {
+        opacity: 0;
+    }
+
+#IMAGE74 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE75 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #IMAGE75 > .ladi-image {
+        opacity: 0;
+    }
+
+#IMAGE70 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE71 {
+    width: 212.42px;
+    height: 153.84px;
+    top: 0px;
+    left: 0px;
+}
+    /* @media all and (min-width:768px) */
+    #IMAGE71 > .ladi-image {
+        opacity: 0;
+    }
+
+.ladi-box {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+/* @media all and (min-width:768px) */
+#BOX258 > .ladi-box {
+    background-color: rgb(171, 240, 244);
+    border-radius: 146px;
+}
+/* @media all and (min-width:768px) */
+#BOX259 > .ladi-box {
+    background-color: rgb(171, 240, 244);
+    border-radius: 146px;
+}
+
+
+
+
+
+#SECTION424 {
+    height: 4010px;
+}
+
+    #SECTION424 > .ladi-section-background {
+        background-color: rgb(255, 255, 255);
+        opacity: 0.3;
+    }
+
+#HEADLINE426 {
+    width: 801px;
+    top: 60.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE427 {
+    width: 370px;
+    top: 120.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH428 {
+    width: 692px;
+    top: 180.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE429 {
+    width: 359px;
+    top: 310.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH430 {
+    width: 692px;
+    top: 370.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE431 {
+    width: 359px;
+    top: 580.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#GROUP453 {
+    width: 1180px;
+    height: 478px;
+    top: 657.9px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE454 {
+    width: 1164px;
+    top: 1190.4px;
+    left: 10px;
+}
+
+[data-action=true] {
+    cursor: pointer;
+}
+/* @media all and (min-width:768px) */
+#IMAGE455 {
+    width: 1008px;
+    height: 1883.82px;
+    top: 1280.4px;
+    left: -10px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 3px 3px 3px);
+}
+/* @media all and (min-width:768px) */
+#HEADLINE458 {
+    width: 58px;
+    top: 3176.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH459 {
+    width: 658px;
+    top: 3178.4px;
+    left: 78.5px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE466 {
+    width: 58px;
+    top: 3597.4px;
+    left: 11px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH467 {
+    width: 658px;
+    top: 3599.4px;
+    left: 85.5px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE468 {
+    width: 1008px;
+    height: 218.95px;
+    top: 3710.4px;
+    left: -11px;
+    filter: drop-shadow(rgba(0, 0, 0, 0.1) 3px 3px 3px);
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH469 {
+    width: 701px;
+    top: 3954.4px;
+    left: 11px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE470 {
+    width: 801px;
+    top: 4042.4px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#VIDEO471 {
+    width: 801px;
+    height: 450.56px;
+    top: 4114.9px;
+    left: 10px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE472 {
+    width: 432.33px;
+    height: 407.83px;
+    top: 149.06px;
+    left: 757px;
+}
+/* @media all and (min-width:768px) */
+#GROUP476 {
+    width: 1180px;
+    height: 269px;
+    top: 3289.9px;
+    left: 10px;
+}
+
+.ladi-group {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#BOX463 {
+    width: 1180px;
+    height: 269px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH460 {
+    width: 549px;
+    top: 33.5px;
+    left: 34.5px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH461 {
+    width: 16px;
+    top: 33.5px;
+    left: 628px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH462 {
+    width: 447px;
+    top: 33.5px;
+    left: 688.5px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH473 {
+    width: 447px;
+    top: 84.1px;
+    left: 688.5px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH474 {
+    width: 447px;
+    top: 135.1px;
+    left: 691px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH475 {
+    width: 447px;
+    top: 210.5px;
+    left: 688.5px;
+}
+
+.ladi-paragraph {
+    width: 100%;
+    display: inline-block;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH475 > .ladi-paragraph {
+    color: rgb(8, 85, 175);
+    ;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH474 > .ladi-paragraph {
+    color: rgb(8, 85, 175);
+    ;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH473 > .ladi-paragraph {
+    color: rgb(8, 85, 175);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH462 > .ladi-paragraph {
+    color: rgb(8, 85, 175);
+    ;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH461 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH460 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.ladi-box {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+/* @media all and (min-width:768px) */
+#BOX463 > .ladi-box {
+    box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.1);
+    background-color: rgb(248, 248, 248);
+    border-radius: 28px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH469 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#IMAGE468 > .ladi-image > .ladi-image-background {
+    width: 1008px;
+    height: 218.95px;
+    top: 0px;
+    left: 0px;
+    background-image: url("https://w.ladicdn.com/s1350x550/5bf3dc7edc60303c34e4991f/untitled-1-20-20220331060154.png");
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH467 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE466 > .ladi-headline {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH459 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE458 > .ladi-headline {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#IMAGE455 > .ladi-image > .ladi-image-background {
+    width: 1008px;
+    height: 1883.82px;
+    top: 0px;
+    left: 0px;
+    background-image: url("https://w.ladicdn.com/s1350x2200/5bf3dc7edc60303c34e4991f/untitled-1-19-20220331055253.png");
+}
+/* @media all and (min-width:768px) */
+#HEADLINE454 > .ladi-headline {
+    color: rgb(8, 85, 175);
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#BOX452 {
+    width: 1180px;
+    height: 478px;
+    top: 0px;
+    left: 0px;
+}
+/* @media all and (min-width:768px) */
+#IMAGE445 {
+    width: 251px;
+    height: 233.31px;
+    top: 42.34px;
+    left: 168.5px;
+}
+/* @media all and (min-width:768px) */
+#LINE446 {
+    height: 360px;
+    top: 57px;
+    left: 581.5px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH449 {
+    width: 448px;
+    top: 348px;
+    left: 666.5px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE450 {
+    width: 384px;
+    top: 308.5px;
+    left: 698.5px;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH434 {
+    width: 425px;
+    top: 348px;
+    left: 81.5px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE435 {
+    width: 384px;
+    top: 308.5px;
+    left: 102px;
+}
+
+    #HEADLINE435 > .ladi-headline {
+        color: rgb(65, 64, 66);
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+/* @media all and (min-width:768px) */
+#PARAGRAPH434 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE450 > .ladi-headline {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH449 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.4;
+}
+
+.ladi-line {
+    position: relative;
+}
+/* @media all and (min-width:768px) */
+#LINE446 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+}
+
+.ladi-line .ladi-line-container {
+    border-bottom: 0 !important;
+    border-right: 0 !important;
+    width: 100%;
+    height: 100%;
+}
+/* @media all and (min-width:768px) */
+#LINE446 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgb(161, 161, 161);
+    border-bottom: 1px solid rgb(161, 161, 161);
+    border-left: 1px solid rgb(161, 161, 161);
+}
+
+#BOX452 > .ladi-box {
+    box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 3px 3px 3px 0px rgba(0, 0, 0, 0.1);
+    background-color: rgb(248, 248, 248);
+    border-radius: 28px;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE431 > .ladi-headline {
+    color: rgb(8, 85, 175);
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH430 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE429 > .ladi-headline {
+    color: rgb(8, 85, 175);
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#PARAGRAPH428 > .ladi-paragraph {
+    color: rgb(65, 64, 66);
+    font-size: 18px;
+    line-height: 1.4;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE427 > .ladi-headline {
+    color: rgb(8, 85, 175);
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 1.6;
+}
+/* @media all and (min-width:768px) */
+#HEADLINE426 > .ladi-headline {
+    color: rgb(8, 85, 175);
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.6;
+}

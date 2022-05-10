@@ -1,0 +1,7 @@
+1. Home để admin thêm sản phẩm  a
+2. Tạo trang Chủ cho người dùng  a
+3. Cho menu ẩn bớt  a
+4. Danh sách sản phẩm  
+5. Làm đki,đnhap  
+6. làm trang chu co nut dang xuát  a
+7. moblie để 1 product  a

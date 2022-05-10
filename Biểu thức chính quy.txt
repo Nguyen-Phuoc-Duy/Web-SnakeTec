@@ -1,0 +1,55 @@
+var regExp = /^(0[234][0-9]{8}|1[89]00[0-9]{4})$/;
+//biểu thức chính  quyregExp phía trên sẽ khớp chuỗi số, 
+bắt đầu là số 0, tiếp sau đó là 1 trong các số 2, 3 hoặc 4,
+//sau đó là 8 số bất kỳ để đủ 10 số.
+Hoặc khớp số tổng đài có 8 chữ số bắt đầu là 1800 / 1900.
+
+var regExpEmail = /^[A-Za-z][\w$.]+@[\w]+\.\w+$/;
+//email phải có @ và có kết thúc là đuôi tên miền (.com, .vn, …) 
+//Ở đây đuôi tên miền là bất kỳ được tạo thành từ \w +: a - z, A - Z, 0 - 9 và _
+
+var regPhone = /^[0-9]{10}$/;//ssđt là số và đủ 10 ký tự 
+var mailformat = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:.[a-zA-Z0-9-]+)*$/;
+var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
++Kiểm tra chuỗi phải là định dạng ngay/thang/nam: Pattern: /^[0-9]{2}\/[0-9]{2}\/[0-9]{4}$/gm Kết quả: Sẽ 
+trả về chuỗi ký tự có định dạng dd/mm/yyyy
+
++Kiểm tra chuỗi phải là định dạng email:
+ Pattern: ^[a-zA-Z0-9]*\@[a-zA-Z0-9]*\.[a-zA-Z0-9]*$/gm
+
++kiểm tra email:
+var reg_mail = /^[A-Za-z0-9]+([_\.\-]?[A-Za-z0-9])*@[A-Za-z0-9]+([\.\-]?[A-Za-z0-9]+)*(\.[A-Za-z]+)+$/;
+
++ if(reg_mail.test(email) == false)
++ reg=/^[a-z0-9_-]{3,16}$/ xác thực tên ng dùng nàm trong khoảng 
+3 đến 20 ký tự k chứa ky tự đặc biệt trừ dấu gạch ngang và 
+gạch dưới bắt đầu bằng chữ cái 
++regex= /^[a-z][\w-]{2,15}$/i tương tự như trên khác là kyd tự 
+đầu tiên phỉa là chữ cái trung với /^[a-z][a-z0-9_-]{2,19}$/i
++/^[a-z][\w-]{2,19}$/i   kể từ khi \w đại diện cho[a-zA-Z0-9_]
+
++const username_pattern = /^[a-z0-9_-]{3,16}$/ //xác thực tên ng dùng nàm trong khoảng 
+//3 đến 16 ký tự k chứa ky tự đặc biệt trừ dấu gạch ngang và 
+//gạch dưới bắt đầu bằng chữ cái
+// regex= /^[a-z][\w-]{2,15}$/i tương tự như trên khác là kyd tự 
+// đầu tiên phỉa là chữ cái
+const password_pattern = /^[A-Za-z0-9_\.]{6,32}$/
+
+++++=1. Kiểm tra định dạng username
+Username  bao gồm các ký tự chữ cái, chữ số, dấu gạch dưới, dấu chấm
+Độ dài 6-32 ký tự
+  /^[A-Za-z0-9_\.]{6,32}$/
+
+++++++++++2. Kiểm tra định dạng password
+Mật khẩu bao gồm các ký chữ cái, chữ số, ký tự đặc biệt, dấu chấm
+Bắt đầu bằng ký tự in hoa
+Độ dài 6-32 ký tự
+/^([A-Z]){1}([\w_\.!@#$%^&*()]+){5,31}$/
+
+++++++++3. Kiểm tra định dạng Email
+Chứa các ký tự chữ cái, chữ số, dấu chấm, gạch dưới
+Ký tự @
+Nhóm ký tự trước @ có 6-32 ký tự
+Nhóm ký tự sau @ là domain một hoặc nhiều cấp    
+ ^[A-Za-z0-9_.]{6,32}@([a-zA-Z0-9]{2,12})(.[a-zA-Z]{2,12})+$
